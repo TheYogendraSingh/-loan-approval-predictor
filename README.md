@@ -4,7 +4,7 @@ A machine learning project that predicts whether a bank loan application
 is likely to be **approved** or **rejected**, based on applicant details
 such as income, credit score, employment status, and existing debt.
 
-**🔗 Live demo:** _add your deployed Streamlit link here after deploying_
+**🔗 Live demo:** https://97axgebcyk4r3zdxjucfat.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.8-orange)
