@@ -1,0 +1,6 @@
+[
+  "tests/test_pipeline.py::test_higher_credit_score_does_not_lower_approval_odds",
+  "tests/test_pipeline.py::test_model_loads",
+  "tests/test_pipeline.py::test_predict_handles_missing_field",
+  "tests/test_pipeline.py::test_predict_returns_expected_shape"
+]
